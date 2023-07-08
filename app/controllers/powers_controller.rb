@@ -32,4 +32,4 @@ class PowersController < ApplicationController
     params.permit(:description)
   end
 end
-end
+
